@@ -3,7 +3,7 @@
     "46.2.7.29": {
       "sunucuAdi": "Anchor Execute Test",
       "urunAdi": "Test ürünü",
-      "mesaj": "Ürünü lisanslı birşekilde kullandığınız için teşekkür ederiz."
+      "patlat": "true"
     }
   }
 }
