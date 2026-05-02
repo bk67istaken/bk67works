@@ -1,0 +1,23 @@
+{
+  "bk67works": {
+    "46.2.9.95": {
+      "sunucuAdi": "Anchor Execute Test",
+      "urunAdi": "IBB Cop Konteyneri Modellemesi"
+    },"185.254.30.101": {
+      "sunucuAdi": "Mona Roleplay",
+      "urunAdi": "IBB Cop Konteyneri Modellemesi"
+    },
+    "185.160.30.100": {
+      "sunucuAdi": "Milas Roleplay",
+      "urunAdi": "IBB Cop Konteyneri Modellemesi"
+    },
+    "185.160.30.8": {
+      "sunucuAdi": "Sate Roleplay",
+      "urunAdi": "IBB Cop Konteyneri Modellemesi"
+    },
+    "146.103.26.27": {
+      "sunucuAdi": "Libertyroleplay",
+      "urunAdi": "IBB Cop Konteyneri Modellemesi"
+    }
+  }
+}

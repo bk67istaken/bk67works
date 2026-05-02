@@ -1,0 +1,28 @@
+{
+  "bk67works": {
+    "46.2.7.240": {
+      "sunucuAdi": "Anchor Execute Test",
+      "urunAdi": "Acıbadem Hastane Modellemesi"
+    },
+    "84.32.231.116": {
+      "sunucuAdi": "Aden Roleplay",
+      "urunAdi": "Acıbadem Hastane Modellemesi"
+    },
+    "217.195.195.45": {
+      "sunucuAdi": "U4 Roleplay",
+      "urunAdi": "Acıbadem Hastane Modellemesi"
+    },
+    "185.160.30.100": {
+      "sunucuAdi": "Milas Roleplay",
+      "urunAdi": "Acıbadem Hastane Modellemesi"
+    },
+    "146.103.26.177": {
+      "sunucuAdi": "MidNight Roleplay",
+      "urunAdi": "Acıbadem Hastane Modellemesi"
+    },
+    "151.242.52.72": {
+      "sunucuAdi": "Rost Roleplay",
+      "urunAdi": "Acıbadem Hastane Modellemesi"
+    }
+  }
+}
